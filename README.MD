@@ -25,7 +25,7 @@ Projeto de visualização financeira desenvolvido no Power BI com base em dados 
 
 ## 📸 Captura de Tela
 
-![Dashboard Financeiro](./imagens/FinanceiroEmpresarial.png)
+![Dashboard Financeiro](./Imagens/FinanceiroEmpresarial.png)
 
 > Visual do dashboard final com indicadores, gráficos e segmentações interativas.
 
